@@ -1,1 +1,2 @@
 # Adapter-Design-Pattern-Weather
+This code demonstrates the Adapter pattern by creating an adapter (WeatherAdapter) that translates data from different weather APIs (AccuWeatherService and OpenWeatherMapService) into a common format (WeatherData). The adapter provides a consistent interface for the mobile application to access weather data from different sources. Finally, the program tests the adapter by fetching weather data from different sources and displaying it in a standardized format
